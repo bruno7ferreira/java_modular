@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bruno.rogerio.ferreira.principal/bruno.rogerio.ferreira.principal.iml" filepath="$PROJECT_DIR$/bruno.rogerio.ferreira.principal/bruno.rogerio.ferreira.principal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bruno.rogerio.ferreira.util/bruno.rogerio.ferreira.util.iml" filepath="$PROJECT_DIR$/bruno.rogerio.ferreira.util/bruno.rogerio.ferreira.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_modular.iml" filepath="$PROJECT_DIR$/java_modular.iml" />
+    </modules>
+  </component>
+</project>
